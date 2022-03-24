@@ -1,3 +1,1 @@
-HW1-  select, from, and, or
-HW2-  between, in
-HW3- 
+## [Download Data](https://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip) "dvdrental.tar"
